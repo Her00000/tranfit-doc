@@ -1,0 +1,25 @@
+# Sphinx build output
+build/
+_build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files and byte-compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Environment specific files
+.env
+.venv/
+venv/
+env/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store 
