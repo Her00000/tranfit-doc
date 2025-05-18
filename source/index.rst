@@ -1,19 +1,17 @@
-.. doc documentation master file, created by
-   sphinx-quickstart on Sun May 18 13:55:25 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Transfit Tutorial documentation master file.
 
-Numerical LC Documentation
-==========================
+Transfit Tutorial
+=================
 
-Welcome to the documentation for the Numerical LC project.
-This documentation includes the main analysis performed in the Jupyter Notebook.
+Welcome to the Transfit tutorial. This guide will walk you through installing, using, and understanding Transfit.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   numerical_LC_class_v2
+   installing_transfit
+   using_transfit
+   about_transfit
 
 Indices and tables
 ==================
