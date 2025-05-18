@@ -1,3 +1,7 @@
 numpy
 scipy
 matplotlib
+sphinx
+sphinx_rtd_theme
+nbsphinx
+ipykernel
